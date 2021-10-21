@@ -1,3 +1,4 @@
+
 nextflow.preview.dsl=2
 
 if (params.species == "hg" ){
